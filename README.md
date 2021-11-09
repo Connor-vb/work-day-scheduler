@@ -26,7 +26,7 @@ THEN the saved events persist
 11/8/2021
 
 ## Site URL
-
+https://connor-vb.github.io/work-day-scheduler/
 
 ## Contribution
 GitHub @ Connor-vb
